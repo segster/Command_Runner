@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CB-2.iml" filepath="$PROJECT_DIR$/.idea/CB-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CITI_Automation/.idea/CITI_Automation.iml" filepath="$PROJECT_DIR$/../CITI_Automation/.idea/CITI_Automation.iml" />
+      <module fileurl="file://$USER_HOME$/Python/Command_Runner/.idea/Command_Runner.iml" filepath="$USER_HOME$/Python/Command_Runner/.idea/Command_Runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NetworkEvolution-1/.idea/NetworkEvolution-1.iml" filepath="$PROJECT_DIR$/../NetworkEvolution-1/.idea/NetworkEvolution-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crash_course/.idea/crash_course.iml" filepath="$PROJECT_DIR$/../crash_course/.idea/crash_course.iml" />
+    </modules>
+  </component>
+</project>
